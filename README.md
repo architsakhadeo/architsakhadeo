@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 # Hi there! <img src="https://raw.githubusercontent.com/architsakhadeo/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Archit Sakhadeo. I'm a researcher 👨🏽‍🔬 and a software engineer 👨🏽‍💻. <!--You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]. -->
-<br>
+<br><br>
 I recently graduated with a Masters in Computer Science from University of Alberta, where I specialized in Reinforcement Learning. 
-<br>
+<br><br>
 I am passionate about Artificial Intelligence, designing experiments, automating cumbersome tasks, creating value out of nothing through software, and working with awesome people.
 
 
