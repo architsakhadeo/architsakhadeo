@@ -43,7 +43,7 @@ LinkedIn (https://www.linkedin.com/in/archit-sakhadeo-753a91aa/)
 ## &#x1f4c8; GitHub Stats
 
 <p float="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=architsakhadeo&hide=makefile,matlab,java,shell,javascript,css,dockerfile,c%2B%2B,c%23,c,jupyter+notebook,tex" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=architsakhadeo&hide=makefile,matlab,java,shell,javascript,css,dockerfile,c%2B%2B,c%23,c,tex" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=architsakhadeo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </p>
 
