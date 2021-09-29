@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 # Hi there! <img src="https://raw.githubusercontent.com/architsakhadeo/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Archit Sakhadeo and I'm a researcher and a software engineer. <!--You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]. -->
+My name is Archit Sakhadeo and I'm a researcher 👨🏽‍🔬 and a software engineer 👨🏽‍💻. <!--You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]. -->
 
 <!--## &#x270d; Check out my Socials-->
 ## 🥳 Check out my Socials
