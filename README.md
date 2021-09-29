@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--[![Header](https://raw.githubusercontent.com/architsakhadeo/architsakhadeo/master/readme_header.png "Header")](https://architsakhadeo.github.io/)-->
 
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/architsakhadeo/MartinHeinz/master/wave.gif" width="30px">
+# Hi there! <img src="https://raw.githubusercontent.com/architsakhadeo/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Archit Sakhadeo and I'm a researcher and a software engineer. <!--You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]. -->
 
