@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Header](https://raw.githubusercontent.com/architsakhadeo/architsakhadeo/master/readme_header.png "Header")](https://architsakhadeo.github.io/)
+<!--[![Header](https://raw.githubusercontent.com/architsakhadeo/architsakhadeo/master/readme_header.png "Header")](https://architsakhadeo.github.io/)-->
 
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/architsakhadeo/MartinHeinz/master/wave.gif" width="30px">
@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 My name is Archit Sakhadeo and I'm a researcher and a software engineer. <!--You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]. -->
 
 ## &#x270d; Blog & Writing
+
+Checkout my Webpage (https://architsakhadeo.github.io/), Twitter (https://twitter.com/architsakhadeo) and LinkedIn (https://www.linkedin.com/in/archit-sakhadeo-753a91aa/).
 
 <!-- Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz). -->
 
