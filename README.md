@@ -35,11 +35,11 @@ I am passionate about:<br>
 <!--## &#x270d; Check out my Socials-->
 ## 🥳 Check out my Socials
 
-Webpage (https://architsakhadeo.github.io/)
-<br>
-Twitter (https://twitter.com/architsakhadeo)
-<br>
-LinkedIn (https://www.linkedin.com/in/archit-sakhadeo-753a91aa/)
+- Webpage (https://architsakhadeo.github.io/)
+<br><br>
+- Twitter (https://twitter.com/architsakhadeo)
+<br><br>
+- LinkedIn (https://www.linkedin.com/in/archit-sakhadeo-753a91aa/)
 
 <!-- Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz). -->
 
