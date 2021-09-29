@@ -25,7 +25,7 @@ My name is Archit Sakhadeo. I'm a researcher 👨🏽‍🔬 and a software engi
 I recently graduated with a Masters in Computer Science from University of Alberta 🎓, where I conducted research in Reinforcement Learning (RL) 🤖 and worked on real-world RL applications 🏭. 
 <br><br>
 I am passionate about:<br>
-- Artificial Intelligence,
+- artificial intelligence (AI),
 - designing experiments,
 - automating cumbersome tasks,
 - creating value out of nothing through software, and
@@ -36,9 +36,7 @@ I am passionate about:<br>
 ## 🥳 Check out my Socials
 
 - Webpage (https://architsakhadeo.github.io/)
-<br><br>
 - Twitter (https://twitter.com/architsakhadeo)
-<br><br>
 - LinkedIn (https://www.linkedin.com/in/archit-sakhadeo-753a91aa/)
 
 <!-- Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz). -->
