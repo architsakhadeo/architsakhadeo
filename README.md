@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 My name is Archit Sakhadeo and I'm a researcher and a software engineer. <!--You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]. -->
 
 <!--## &#x270d; Check out my Socials-->
-## 👯 Check out my Socials
+## 🥳 Check out my Socials
 
 Webpage (https://architsakhadeo.github.io/)
 <br>
