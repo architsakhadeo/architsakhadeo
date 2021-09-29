@@ -31,6 +31,7 @@ I am passionate about:<br>
 - creating value out of nothing through software, and
 - working with awesome people.
 
+I strongly relate to the quote "Any sufficiently advanced technology is indistinguishable from magic". I want to create magic 🔮 🚀.
 
 <!--## &#x270d; Check out my Socials-->
 ## 🥳 Check out my Socials
