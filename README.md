@@ -51,6 +51,9 @@ I strongly relate to the quote "Any sufficiently advanced technology is indistin
 ![](https://img.shields.io/badge/Version%20Control-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Scikit%20learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SciPy-informational?style=flat&logo=scipy&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
