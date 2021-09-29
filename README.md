@@ -48,6 +48,7 @@ I strongly relate to the quote "Any sufficiently advanced technology is indistin
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Version%20Control-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 
 
 ## &#x1f4c8; GitHub Stats
