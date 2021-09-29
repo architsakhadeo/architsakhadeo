@@ -39,6 +39,7 @@ I strongly relate to the quote "Any sufficiently advanced technology is indistin
 - Webpage (https://architsakhadeo.github.io/)
 - Twitter (https://twitter.com/architsakhadeo)
 - LinkedIn (https://www.linkedin.com/in/archit-sakhadeo-753a91aa/)
+- Google Scholar (https://scholar.google.com/citations?user=3elKYUQAAAAJ)
 
 <!-- Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz). -->
 
