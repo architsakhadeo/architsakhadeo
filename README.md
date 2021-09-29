@@ -35,9 +35,10 @@ My name is Archit Sakhadeo and I'm a researcher and a software engineer. <!--You
 
 ## &#x1f4c8; GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=architsakhadeo&hide=makefile,matlab,java,shell,javascript,css,dockerfile,c%2B%2B,c%23,c,jupyter+notebook,tex" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=architsakhadeo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<p float="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=architsakhadeo&hide=makefile,matlab,java,shell,javascript,css,dockerfile,c%2B%2B,c%23,c,jupyter+notebook,tex" width="100"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=architsakhadeo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="100"/>
+</p>
 
 <!-- links to social media icons -->
 
@@ -58,6 +59,8 @@ My name is Archit Sakhadeo and I'm a researcher and a software engineer. <!--You
 [1]: https://twitter.com/Martin_Heinz_
 [2]: https://github.com/MartinHeinz
 [3]: https://www.linkedin.com/in/heinz-martin/
+
+
 
 
 <!-- Resources -->
