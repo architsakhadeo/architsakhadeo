@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 My name is Archit Sakhadeo. I'm a researcher 👨🏽‍🔬 and a software engineer 👨🏽‍💻. <!--You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]. -->
 <br><br>
-I recently graduated with a Masters in Computer Science from University of Alberta 🎓, where I conducted research in Reinforcement Learning (RL) 🤖 and worked on real-world RL applications 🏭. 
+I recently graduated with a Masters in Computer Science from the University of Alberta 🎓, where I conducted research in Reinforcement Learning (RL) 🤖 and worked on real-world RL applications 🏭. 
 <br><br>
 I am passionate about:<br>
 - artificial intelligence (AI),
@@ -36,10 +36,10 @@ I strongly relate to the quote "Any sufficiently advanced technology is indistin
 <!--## &#x270d; Check out my Socials-->
 ## 🥳 Check out my Socials
 
-- Webpage (https://architsakhadeo.github.io/)
-- Twitter (https://twitter.com/architsakhadeo)
-- LinkedIn (https://www.linkedin.com/in/archit-sakhadeo-753a91aa/)
-- Google Scholar (https://scholar.google.com/citations?user=3elKYUQAAAAJ)
+- [Webpage](https://architsakhadeo.github.io/)
+- [Twitter](https://twitter.com/architsakhadeo)
+- [LinkedIn](https://www.linkedin.com/in/archit-sakhadeo-753a91aa/)
+- [Google Scholar](https://scholar.google.com/citations?user=3elKYUQAAAAJ)
 
 <!-- Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz). -->
 
