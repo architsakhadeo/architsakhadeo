@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 # Hi there! <img src="https://raw.githubusercontent.com/architsakhadeo/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Archit Sakhadeo. I'm a researcher 👨🏽‍🔬 and a software engineer 👨🏽‍💻. Here's my [Resume](https://drive.google.com/file/d/1MdFT2MrsLvUdfbdThOna0kNNypOosgu7/view) 📜. <!--You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]. -->
+My name is Archit Sakhadeo. I'm a researcher 👨🏽‍🔬 and a software engineer 👨🏽‍💻.  <!--You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]. -->
 <br><br>
 I recently graduated with a Masters in Computer Science from the University of Alberta 🎓, where I conducted research in Reinforcement Learning (RL) 🤖 and worked on real-world RL applications 🏭. 
 <br><br>
@@ -40,6 +40,8 @@ I strongly relate to the quote "Any sufficiently advanced technology is indistin
 - [Twitter](https://twitter.com/architsakhadeo)
 - [LinkedIn](https://www.linkedin.com/in/architsakhadeo/)
 - [Google Scholar](https://scholar.google.com/citations?user=3elKYUQAAAAJ)
+
+Here's my [Resume](https://drive.google.com/file/d/1MdFT2MrsLvUdfbdThOna0kNNypOosgu7/view) 📜.
 
 <!-- Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz). -->
 
